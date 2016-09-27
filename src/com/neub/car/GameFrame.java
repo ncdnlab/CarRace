@@ -9,7 +9,13 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author NAHID
+ * @author Shakil Ahmed Munna 
+ * @author Md Mahadi Hasan Nahid
+ * 
+ * North East University Bangladesh (NEUB)
+ * nahid@neub.edu.bd 
+ * @version 1.0
+ * 
  */
 public class GameFrame {
     
